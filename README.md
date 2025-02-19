@@ -1,3 +1,3 @@
 # JHU
 
-Updating text 6.0
+Updating text 7.0
